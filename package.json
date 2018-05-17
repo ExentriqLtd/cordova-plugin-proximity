@@ -5,11 +5,11 @@
       "id":"org.opentelecom.proximity",
       "platforms":[
           "ios",
-          "android",
+          "android"
       ]
   },
   "repository":{
       "type":"git",
       "url":"git+https://github.com/ExentriqLtd/cordova-plugin-proximity.git"
-  },
+  }
 }
