@@ -1,4 +1,15 @@
 {
   "name": "cordova-plugin-proximity-sensor",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "cordova":{
+      "id":"org.opentelecom.proximity",
+      "platforms":[
+          "ios",
+          "android",
+      ]
+  },
+  "repository":{
+      "type":"git",
+      "url":"git+https://github.com/ExentriqLtd/cordova-plugin-proximity.git"
+  },
 }
