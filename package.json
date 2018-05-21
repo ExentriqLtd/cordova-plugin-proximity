@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-proximity-sensor",
+  "name": "cordova-plugin-proximity",
   "version": "0.2.1",
   "cordova":{
       "id":"org.opentelecom.proximity",
