@@ -2,7 +2,7 @@
   "name": "cordova-plugin-proximity",
   "version": "0.2.1",
   "cordova":{
-      "id":"org.opentelecom.proximity",
+      "id":"cordova-plugin-proximity",
       "platforms":[
           "ios",
           "android"
